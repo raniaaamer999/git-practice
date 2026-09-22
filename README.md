@@ -11,3 +11,10 @@ Published July 10, 2026.
 I found this article interesting because I expected better tools to make AI more accurate. GitHub found that the opposite happened when it changed the tools Copilot used to review code. The AI missed more problems and the reviews became more expensive. What surprised me was that the tools worked, but the instructions did not fit the task.
 
 The engineers improved the results by giving the AI clearer instructions about how to check code changes. This made me think about how much AI still depends on people to guide and test it. As someone learning software development, I think it could be helpful to have AI check my work, but I would still want to understand its suggestions before making changes.
+
+## Other Thoughts
+
+I agree the backwards seeming idea is really interesting. It's feeling super uncertain how prevelant AI usage is going to affect coidng practices.
+
+Tristan Ge
+github username tristange123
