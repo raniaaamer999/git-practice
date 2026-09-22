@@ -18,3 +18,7 @@ I agree the backwards seeming idea is really interesting. It's feeling super unc
 
 Tristan Ge
 github username tristange123
+
+## My Thoughts - Samthropic
+
+Reading this article enlightened me on how AI is still ways away from being an automated tool that could take the job of a software engineer. Even when handed the proper tools and frameworks, AI still made errors and performed worse when trying to use proper coding practices. With many companies limiting their entry-level software engineering roles to cut costs, the article demonstrates how it can be more costly to fully rely on this technology. AI should be seen as an assitance tool to enchance productivity, with proper guidance from an experienced user, not as a replacement to software developers as a whole.
